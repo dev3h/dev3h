@@ -1,6 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="UwUDev" />
+  <img src="image/uwu.gif" width="1200" alt="UwUDev" />
 </a>
 Hi, I'm Nguyen Duy Nam, but you can called UwUDev o(〃＾▽＾〃)o
 I'm study software develop in Electric Power University (EPU)
