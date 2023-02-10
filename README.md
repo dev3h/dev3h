@@ -1,11 +1,14 @@
-### WELCOME TO MY PAGE 👋👋👋
-
-<div>
+<h2>WELCOME TO MY PAGE 👋👋👋</h2>
+<div align='center'><img src="image/uwu.svg" width="800" height="400" alt="Click to see the source"></div >
+<div style='margin: 10px 0'>
   <a href="#" target="_blank">
+    <img src="image/uwu.gif" width="100" alt="UwUDev" style='object-fit: cover' />
+     <img src="image/uwu.gif" width="100" alt="UwUDev" style='object-fit: cover' />
+    <img src="image/uwu.gif" width="100" alt="UwUDev" style='object-fit: cover' />
+    <img src="image/uwu.gif" width="100" alt="UwUDev" style='object-fit: cover' />
     <img src="image/uwu.gif" width="100" alt="UwUDev" style='object-fit: cover' />
   </a>
 </div>
-<p>Hi, I'm Nguyen Duy Nam, but you can called UwUDev  <span style='color: tomato'>o(〃＾▽＾〃)o</span ></p>
 <p>
   I'm study software develop in Electric Power University (EPU)
 </p>
@@ -16,6 +19,7 @@
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
+<h2 style='font-size: 30px'><b>Front end:</b></h2>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -29,6 +33,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
 &nbsp;
+<h2 style='font-size: 30px'><b>Back end:</b></h2>
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
@@ -59,7 +64,6 @@
 &nbsp;
 
 <br>
-- Frontend:
 
 ## My Popular Projects
 
