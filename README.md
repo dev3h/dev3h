@@ -1,17 +1,15 @@
 <h2>WELCOME TO MY PAGE 👋👋👋</h2>
 <div align='center'><img src="image/uwu.svg" width="800" height="400" alt="Click to see the source"></div >
-<div style='margin: 10px 0'>
-  <a href="#" target="_blank">
+<div style='display: flex; justify-content: center; gap: 20px; flex-wrap: wrap'>
     <img src="image/uwu.gif" width="100" alt="UwUDev" style='object-fit: cover' />
      <img src="image/uwu.gif" width="100" alt="UwUDev" style='object-fit: cover' />
     <img src="image/uwu.gif" width="100" alt="UwUDev" style='object-fit: cover' />
     <img src="image/uwu.gif" width="100" alt="UwUDev" style='object-fit: cover' />
     <img src="image/uwu.gif" width="100" alt="UwUDev" style='object-fit: cover' />
-  </a>
 </div>
-<p>
+<h3 style='text-align: center; margin-top: 20px'>
   I'm study software develop in Electric Power University (EPU)
-</p>
+</h3>
 
 ## My Stats
 
