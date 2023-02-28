@@ -1,20 +1,11 @@
 <div align='center'><img src="image/uwu.svg" width="800" height="400" alt="Click to see the source"></div >
-<div style='display: flex; justify-content: center; width: 100%'>
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-    </div>
-    <div style="display: flex; align-items: flex-start;">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
-    </div>
-    <div style="display: flex; align-items: flex-start;">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-    </div>
-    <div style="display: flex; align-items: flex-start;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-    </div>
-    <div style="display: flex; align-items: flex-start;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-    </div>
+
+<div style='display: flex; justify-content: center; padding-top: 10px'>
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" height="65" />
+    <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" height="65" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" height="65" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" height="65" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" height="65" />
 </div>
 <div style='display: flex; justify-content: center; gap: 20px; flex-wrap: wrap'>
     <img src="image/uwu.gif" width="100" alt="UwUDev" style='object-fit: cover' />
