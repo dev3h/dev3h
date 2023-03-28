@@ -1,36 +1,51 @@
 <div align='center'><img src="image/uwu.svg" width="800" height="400" alt="Click to see the source"></div >
 
-<div style='display: flex; justify-content: center; padding-top: 10px'>
+<div align='center' style='display: flex; justify-content: center; padding-top: 10px'>
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" height="65" />
     <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" height="65" />
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" height="65" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" height="65" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" height="65" />
 </div>
-<div style='display: flex; justify-content: center; gap: 20px; flex-wrap: wrap'>
+<div align='center' style='display: flex; justify-content: center; gap: 20px; flex-wrap: wrap'>
     <img src="image/uwu.gif" width="100" alt="UwUDev" style='object-fit: cover' />
      <img src="image/uwu.gif" width="100" alt="UwUDev" style='object-fit: cover' />
     <img src="image/uwu.gif" width="100" alt="UwUDev" style='object-fit: cover' />
     <img src="image/uwu.gif" width="100" alt="UwUDev" style='object-fit: cover' />
     <img src="image/uwu.gif" width="100" alt="UwUDev" style='object-fit: cover' />
 </div>
-<h3 style='text-align: center; margin-top: 20px'>
+<h3 align='center' style='text-align: center; margin-top: 20px'>
   I'm study software develop in Electric Power University (EPU)
 </h3>
 
-## My Stats
+<hr />
+<h2 align='center' style='font-size: 30px'><b>My Popular Projects</b></h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev3h&show_icons=true&count_private=true&theme=nightowl&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+<div align='center'>
+    <img style="height: auto; width: 32%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=frutika&theme=tokyonight" />
+    <img style="height: auto; width: 32%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=workiee&theme=prussian" />
+    <img style="height: auto; width: 32%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=Grab-Food-clone&theme=nord" />
+    <img style="height: auto; width: 32%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=flix-tv-clone&theme=noctis_minimus" />
+</div>
+
+
+<h2 align='center' style='text-align: center; margin-top: 20px'>
+   MY STATS
+</h2>
+
+<div align='center'>
+    <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=dev3h&show_icons=true&count_private=true&theme=nightowl&hide=contribs,prs,issues" />
+</div>
 
 <hr/>
 <h2 align="center" style='font-size: 35px'>🛠 Technologies and Tools 🛠</h2>
 <br>
 <div>
   <!-- front end -->
-  <div style='border: 1px solid; background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(204,0,51,1) 0%, rgba(252,137,23,1) 90.1% ); padding: 10px'>
+  <div style='border: 1px solid; padding: 10px; padding-top: 0'>
       <h2 align='center' style='font-size: 30px'><b>Front end:</b></h2>
       <!-- https://simpleicons.org/ -->
-      <div style='max-width: 500px; margin: 0 auto'>
+      <div align='center' style='max-width: 500px; margin: 0 auto'>
         <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
         &nbsp;
         <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
@@ -53,7 +68,7 @@
   <!-- backend -->
   <div style='border: 1px solid; background-image: linear-gradient( 173.1deg,  rgba(244,162,110,1) 12.4%, rgba(218,99,104,1) 88.5% ); margin-top: 20px; padding: 10px'>
     <h2 align='center' style='font-size: 30px'><b>Back end:</b></h2>
-    <div style='max-width: 500px; margin: 0 auto'>
+    <div align='center' style='max-width: 500px; margin: 0 auto'>
       <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" /></span>
       &nbsp;
       <span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=777BB4" alt="Laravel logo" title="Laravel" height="25" /></span>
@@ -66,11 +81,9 @@
   </div>
 </div>
 
-<br>
-
-<div style='border: 1px solid; background-image: linear-gradient( 269.1deg,  rgba(247,116,35,1) 1.4%, rgba(251,206,91,0.68) 90.1% ); padding: 10px'>
+<div style='border: 1px solid; padding: 10px; padding-bottom: 0'>
   <h2 align='center' style='font-size: 30px'><b>Tool:</b></h2>
-  <div style='max-width: 500px; margin: 0 auto'>
+  <div align='center' style='max-width: 500px; margin: 0 auto'>
     <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" /></span>
     &nbsp;
     <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
@@ -79,11 +92,3 @@
     &nbsp;
   </div >
 </div >
-<br>
-<hr/>
-<h2 style='font-size: 30px'><b>My Popular Projects</b></h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=frutika&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=workiee&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=Grab-Food-clone&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=flix-tv-clone&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
