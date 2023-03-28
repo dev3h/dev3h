@@ -28,6 +28,10 @@
     <img style="height: auto; width: 32%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=flix-tv-clone&theme=noctis_minimus" />
 </div>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=frutika&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=workiee&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=Grab-Food-clone&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=flix-tv-clone&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align='center' style='text-align: center; margin-top: 20px'>
    MY STATS
