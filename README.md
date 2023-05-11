@@ -26,9 +26,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=workiee&theme=prussian)](https://github.com/dev3h/workiee)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=Grab-Food-clone&theme=nord)](https://github.com/dev3h/Grab-Food-clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=flix-tv-clone&theme=noctis_minimus)](https://github.com/dev3h/flix-tv-clone)
-
-<h2 style='text-align: center; margin-top: 20px'>
-   MY STATS
-</h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev3h&show_icons=true&count_private=true&theme=nightowl&hide=contribs,prs,issue)
