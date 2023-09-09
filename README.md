@@ -2,8 +2,6 @@
 
 <div align='center' style='display: flex; justify-content: center; padding-top: 10px'>
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" height="65" />
-    <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" height="65" />
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" height="65" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" height="65" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" height="65" />
 </div>
