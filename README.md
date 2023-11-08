@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=coding+3h30)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&random=false&width=435&lines=Empty+box.+I+can+contain+everything)](https://git.io/typing-svg)
 
 <hr />
 <h2 style='font-size: 30px'><b>My Popular Projects</b></h2>
