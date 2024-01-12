@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&random=false&width=435&lines=Empty+box.+I+can+contain+everything)](https://git.io/typing-svg)
 
-<hr />
-<h2 style='font-size: 30px'><b>My Popular Projects</b></h2>
+<h2 style='font-size: 30px'><b>💪Some Projects</b></h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=news_reactjs_web&theme=cobalt)](https://github.com/dev3h/news_reactjs_web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3h&repo=e-commerce-laravel&theme=nightowl)](https://github.com/dev3h/e-commerce-laravel)
