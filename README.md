@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/dev3h">
-    <img src="https://github.com/dev3h/dev3h/assets/75244577/5886fdc4-4cdb-4d38-83db-d8513679e77f" alt="dev3h" /></a>
-
+    <img src="https://github.com/dev3h/dev3h/assets/75244577/5886fdc4-4cdb-4d38-83db-d8513679e77f" alt="dev3h"  height="300"/>
+  </a>
 </p>
 
 <p align="center">
@@ -60,6 +60,7 @@
     <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
   </p>
 -->
+  <br />
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
