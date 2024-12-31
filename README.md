@@ -1,8 +1,16 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/dev3h"
+    width="600"
+    height="120"
+  />
+</a>
 <p align="center">
   <a href="https://github.com/dev3h">
     <img src="https://github.com/dev3h/dev3h/assets/75244577/5886fdc4-4cdb-4d38-83db-d8513679e77f" alt="dev3h"  height="300"/>
   </a>
 </p>
+  
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -13,7 +21,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/@nghiitthoi"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+<!--   <a href="https://www.youtube.com/@nghiitthoi"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/namnd06/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
