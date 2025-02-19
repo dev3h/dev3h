@@ -7,13 +7,6 @@
 </a>
   
 <p align="center">
-  <a href="https://github.com/dev3h">
-    <img src="https://github.com/dev3h/dev3h/assets/75244577/5886fdc4-4cdb-4d38-83db-d8513679e77f" alt="dev3h"  height="300"/>
-  </a>
-</p>
-  
-
-<p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56F75F&width=435&lines=Optimization+is+mind-blowing+%F0%9F%98%8D" alt="Typing SVG" />
